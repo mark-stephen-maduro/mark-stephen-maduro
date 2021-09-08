@@ -25,7 +25,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://www.cleanpng.com/png-vue-js-javascript-library-angularjs-react-vue-js-5549884/preview.html" />
+<img align="left" alt="Vue" width="26px" src="https://png2.cleanpng.com/sh/92490a8be8090c82e8aba21ac9aa36d2/L0KzQYm3V8E5N5pnR91yc4Pzfri0lwVmNZt4RdxqdnH2c8PwkQQudJpnitN7eT3kfrj8jPFzcqQyitdqY4SwhsbsTfp0NWZnTNdrZUHmQIq4Wck0NmkATaI7OEK8QYa6Ucg5P2I4SqI8N0OxgLBu/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1c091993.8950282915318871320373.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
