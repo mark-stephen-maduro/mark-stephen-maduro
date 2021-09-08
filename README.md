@@ -1,8 +1,5 @@
 ### Hi there, I'm [Mark][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Web developer and a gamer!! 🤣
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -39,13 +36,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://mark-stephen-maduro.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCxEzEjhofh8V6fp0w3AIPGg
