@@ -2,7 +2,6 @@
 
 ## I'm a Web developer and a gamer!! 🤣
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything still a long way to go🤣
 - 🥅 2021 Goals: Expand my knowledge! 
 - ⚡ Fun fact: I love coffee!!
