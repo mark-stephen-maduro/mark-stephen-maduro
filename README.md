@@ -1,5 +1,7 @@
 ### Hi there, I'm [Mark][website] 👋
 
+WIP [Portfolio-v2][portfolio]
+
 ## I'm a Web developer and a gamer!! 🤣
 
 - 🌱 I’m currently learning everything still a long way to go🤣
@@ -37,5 +39,6 @@
 ---
 
 [website]: https://mark-stephen-maduro.github.io/portfolio/
+[portfolio]: https://mark-stephen-maduro.github.io/portfolio-v2/
 [youtube]: https://www.youtube.com/channel/UCxEzEjhofh8V6fp0w3AIPGg
 [linkedin]: https://www.facebook.com/Steeeephen/
